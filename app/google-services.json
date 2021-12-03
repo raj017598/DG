@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414073635225",
+    "firebase_url": "https://digi-7bd27.firebaseio.com",
+    "project_id": "digi-7bd27",
+    "storage_bucket": "digi-7bd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414073635225:android:8ab5f771aba59ee8231308",
+        "android_client_info": {
+          "package_name": "munni.priyanka.dg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414073635225-1p1369hoev8e4bf1rnt6gr5tcdrkfcuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6oYardYqsRjwQp1u2lBhkflU6UFU5n6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414073635225-1p1369hoev8e4bf1rnt6gr5tcdrkfcuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

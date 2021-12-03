@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FeedBackActivity">
+
+    <LinearLayout
+        android:id="@+id/feedback_message_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSkyBlue"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/twentry_dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="?attr/actionBarSize"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:fontFamily="@font/akronim"
+            android:text="@string/send_us_your_feedback"
+            android:textColor="@color/colorBlack"
+            android:textSize="@dimen/thirty_sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="@dimen/twentry_dp"
+            android:layout_marginRight="@dimen/twentry_dp"
+            android:text="@string/feedback_message"
+            android:textColor="@color/colorSmalllWhite"
+            android:textSize="@dimen/fourteen_sp" />
+    </LinearLayout>
+    <EditText
+        android:id="@+id/name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_below="@id/feedback_message_layout"
+        android:layout_marginLeft="@dimen/twentry_dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="@dimen/twentry_dp"
+        android:background="@drawable/feedback_edittext_design"
+        android:drawableStart="@drawable/ic_baseline_account_circle_24"
+        android:drawablePadding="@dimen/five_dp"
+        android:hint="@string/enter_your_name"
+        android:inputType="textPersonName"
+        android:paddingLeft="@dimen/ten_dp"
+        android:textColor="@color/colorBlack" />
+    <EditText
+        android:id="@+id/message_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:layout_below="@id/name_edittext"
+        android:layout_marginLeft="@dimen/twentry_dp"
+        android:layout_marginTop="@dimen/twentry_dp"
+        android:layout_marginRight="@dimen/twentry_dp"
+        android:background="@drawable/feedback_edittext_design"
+        android:drawablePadding="@dimen/five_dp"
+        android:gravity="left|top"
+        android:hint="@string/describe_your_experience_here"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:paddingLeft="@dimen/ten_dp"
+        android:paddingTop="@dimen/five_dp"
+        android:textColor="@color/colorBlack" />
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/message_edittext"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="@dimen/twentry_dp"
+        android:background="@drawable/sent_design"
+        android:paddingLeft="?attr/actionBarSize"
+        android:paddingRight="?attr/actionBarSize"
+        android:text="@string/send"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/thirty_sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

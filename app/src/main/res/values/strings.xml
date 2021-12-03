@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Digi e-Learning</string>
+
+    <string name="app_id">ca-app-pub-6843194415454629~1302679121</string>
+    <string name="banner_ads_unit_id">ca-app-pub-6843194415454629/5730074953</string>
+
+    <string name="set">to send you password reset</string>
+    <string name="reset">We just need your registered email address</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="don_t_have_an_account">DON\'T HAVE AN ACCOUNT?</string>
+    <string name="register">REGISTER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Calculator Variable-->
+    <string name="numberZero">0</string>
+    <string name="numberOne">1</string>
+    <string name="numberTwo">2</string>
+    <string name="numberThree">3</string>
+    <string name="numberFour">4</string>
+    <string name="numberFive">5</string>
+    <string name="numberSix">6</string>
+    <string name="numberSeven">7</string>
+    <string name="numberEight">8</string>
+    <string name="numberNine">9</string>
+    <string name="divide">÷</string>
+    <string name="multiple">x</string>
+    <string name="decimal">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="factorial">!</string>
+    <string name="closeParenthesis">)</string>
+    <string name="openParenthesis">(</string>
+    <string name="percentage">%</string>
+    <string name="ac">AC</string>
+    <string name="del">del</string>
+    <string name="rad">Rad</string>
+    <string name="deg">Deg</string>
+    <string name="pi"> π </string>
+    <string name="inverse">1/x</string>
+    <string name="ln">ln</string>
+    <string name="e">e</string>
+    <string name="log">log</string>
+    <string name="squareRoot">√</string>
+    <string name="exp">EXP</string>
+    <string name="xy">x^y</string>
+    <string name="sine">sin</string>
+    <string name="cosine">cos</string>
+    <string name="tangent">tan</string>
+    <string name="answer">ANS</string>
+    <string name="describe_your_experience_here">Describe your experience, here</string>
+    <string name="developer_place">Jamshedpur, India</string>
+    <string name="follow_me_on">Follow me on:</string>
+    <string name="not_for_reason">not for reason</string>
+    <string name="c">C</string>
+    <string name="plus_minus">±</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_sign_up">or Sign up</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="i_accept_the_terms_of_the_agreements">I accept the terms of the agreements.</string>
+    <string name="or_sign_in">or Sign In</string>
+    <string name="x_y">x^y</string>
+    <string name="root">√</string>
+    <string name="comma">,</string>
+    <string name="shift">shift</string>
+    <string name="pie">π</string>
+    <string name="_1_x">1/x</string>
+    <string name="x3">x3</string>
+    <string name="n">n!</string>
+    <string name="x2">x2</string>
+    <string name="cot">cot</string>
+    <string name="sec">sec</string>
+    <string name="csc">csc</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="try_quizes">Try Quizes</string>
+    <string name="calculator">Calculator</string>
+    <string name="scientific_calculator">Scientific Calculator</string>
+    <string name="timer">Timer</string>
+    <string name="log_table">Log Table</string>
+    <string name="trigonometric_equations">Trigonometric Equations</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string-array name="Default_University_List">
+        <item><b>Choose University</b></item>
+        <item>Kolhan University, Chaiwasa</item>
+        <item>Ranchi University, Ranchi</item>
+        <item>Netaji Subhas University</item>
+        <item>Usha Martin University</item>
+        <item>AISECT University</item>
+        <item>Amity University, Ranchi</item>
+        <item>Arka Jain University</item>
+        <item>SNU - Sai Nath University</item>
+        <item>Capital University</item>
+        <item>Sarala Birla University</item>
+        <item>Radha Govind University</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="kolhan">
+        <item>AJK College, Jamshedpur</item>
+        <item>Ashu Kisku Memorial and Rabi Kisku Teachers Training Institute, Chandil</item>
+        <item>Awadh College of Architecture, Jamshedpur</item>
+        <item>BA College of Engineering and Technology, East Singhbhum</item>
+        <item>Baharagora College, Baharagora</item>
+        <item>BDSL Mahila College, Ghatsila</item>
+        <item>Ghatsila College, Ghatsila</item>
+        <item>GIIT Professional College, Jamshedpur</item>
+        <item>Gyan Chand Jain Commerce College, Chaibasa</item>
+        <item>Institute for Education, Seraikela</item>
+        <item>Jain College, Jamshedpur</item>
+        <item>Jamini Kant B Ed College, Ghatsila</item>
+        <item>Jamshedpur Cooperative College, Jamshedpur.</item>
+        <item>Jamshedpur Womens College, Jamshedpur</item>
+        <item>Jamshedpur Workers College, Jamshedpur</item>
+        <item>Jawahar Lal Nehru College, Chakradharpur</item>
+        <item>JKM College of Management Science and Commerce, Salboni</item>
+        <item>Karim City College, Jamshedpur</item>
+        <item>Kashi Sahu College, Seraikella</item>
+        <item>KMPM Vocational College, Jamshedpur</item>
+        <item>LBSM College, Jamshedpur</item>
+        <item>Loyola College of Education, Jamshedpur</item>
+        <item>Madhusudan Mahto Teacher Training College, Chakradharpur</item>
+        <item>Mahila College, Chaibasa</item>
+        <item>Maryland Institute of Technology and Management, Galudih</item>
+        <item>Model Mahila College, Kharsawan</item>
+        <item>Singhbhum College, Chandil</item>
+        <item>Srinath College of Education, Jamshedpur</item>
+        <item>Tata College, Chaibasa</item>
+        <item>Xavier Institute of Tribal Education College, Jamshedpur</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Default_College_List">
+        <item>Others</item>
+    </string-array>
+    <string name="send">Send</string>
+    <string name="feedback_message">Do you know a suggestions or found some bug?\nLet us know in the field below.</string>
+    <string name="send_us_your_feedback">Send us your feedback!</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+
+</resources>
